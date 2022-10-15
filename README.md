@@ -23,3 +23,7 @@ e1v--------------------------------------------e2v------------------------------
 ![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e1v.png)
 ![e2v](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e2v.png)
 ![e3v](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e3v.png)
+
+We then compute dissimalarity scores within the two groups and against each other. 
+The score is rounded to the the 2nd decimal value and multiplied by 100 for ease of readibility. 
+
