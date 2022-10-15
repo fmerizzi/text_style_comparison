@@ -27,3 +27,10 @@ e1v--------------------------------------------e2v------------------------------
 We then compute dissimalarity scores within the two groups and against each other. 
 The score is rounded to the the 2nd decimal value and multiplied by 100 for ease of readibility. 
 
+**result table**
+![table](https://github.com/fmerizzi/text_style_comparison/blob/main/Screenshot_20221015_185331.png)
+
+**scores**
+Venanso within group dissimilarity = 0.3866
+Cella di Macra extra group dissimilarity = 0.2966
+Extra group dissimilarity = 0.3744
