@@ -9,7 +9,7 @@ For the che style comparison we select six images all cointaining the letters "e
  - upscaled to 200x200 pixels 
 
 
-e1c----------------------------------------e2c------------------------------------------e3c
+e1c--------------------------------------------e2c--------------------------------------e3c
 
 
 ![e1c](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e1c.png)
@@ -17,7 +17,7 @@ e1c----------------------------------------e2c----------------------------------
 ![e3c](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e3c.png)
 
 
-e1v----------------------------------------e2v------------------------------------------e3v
+e1v--------------------------------------------e2v--------------------------------------e3v
 
 
 ![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/sample_images/e1v.png)
