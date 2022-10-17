@@ -1,4 +1,4 @@
-# medieval writings 
+# medieval writings style comparison and restoration  
 Using gram matrices to compare calligraphy from medieval frescoes, deep image prior for text restoration. 
 
 ## style comparison 
@@ -45,14 +45,29 @@ Extra group dissimilarity = 0.3744
 Inpainting test applied to letter "a" from Cella di Macra. Image is upscaled, white balanced, squared by expanding border content and smoothed with a gaussian blur. 
 Deep image prior is used with the same configuration used for the frecoes. 
 
-**inpainting with mask one**
+**inpainting with mask 1**
 
 
 ![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA_mask1summary.png)
 
 
-![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA.jpg)
 ![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/res_mask1.png)
 
 
+**inpainting with mask 2**
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA_mask2summary.png)
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/res_mask2.png)
+
+
+**inpainting with mask 3**
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA_mask3summary.png)
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/res_mask3.png)
 
