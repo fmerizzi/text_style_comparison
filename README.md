@@ -1,5 +1,5 @@
-# text_style_comparison
-Using gram matrices to compare calligraphy from medieval frescoes
+# medieval writings 
+Using gram matrices to compare calligraphy from medieval frescoes, deep image prior for text restoration. 
 
 ## style comparison 
 For the che style comparison we select six images all cointaining the letters "et", three come from "Cella di Macra" and three from "Venanso".
