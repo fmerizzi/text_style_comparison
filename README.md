@@ -1,7 +1,7 @@
 # text_style_comparison
 Using gram matrices to compare calligraphy from medieval frescoes
 
-### sample images
+## style comparison 
 For the che style comparison we select six images all cointaining the letters "et", three come from "Cella di Macra" and three from "Venanso".
 
  - images are cut in a square format 
@@ -40,3 +40,5 @@ Venanso within group dissimilarity = 0.3866
 Cella di Macra extra group dissimilarity = 0.2966
 
 Extra group dissimilarity = 0.3744
+
+## Text Inpainting 
