@@ -37,7 +37,7 @@ The score is rounded to the the 2nd decimal value and multiplied by 100 for ease
 
 Venanso within group dissimilarity = 0.3866
 
-Cella di Macra extra group dissimilarity = 0.2966
+Cella di Macra within group dissimilarity = 0.2966
 
 Extra group dissimilarity = 0.3744
 
