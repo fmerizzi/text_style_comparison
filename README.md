@@ -42,3 +42,17 @@ Cella di Macra extra group dissimilarity = 0.2966
 Extra group dissimilarity = 0.3744
 
 ## Text Inpainting 
+Inpainting test applied to letter "a" from Cella di Macra. Image is upscaled, white balanced, squared by expanding border content and smoothed with a gaussian blur. 
+Deep image prior is used with the same configuration used for the frecoes. 
+
+**inpainting with mask one**
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA_mask1summary.png)
+
+
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/inpaintingA.jpg)
+![e1v](https://github.com/fmerizzi/text_style_comparison/blob/main/text_inpainting/res_mask1.png)
+
+
+
