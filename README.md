@@ -1,3 +1,8 @@
+# Large style comparison 
+
+![large table](https://github.com/fmerizzi/text_style_comparison/blob/main/large_table.png)
+
+
 # medieval writings style comparison and restoration  
 Using gram matrices to compare calligraphy from medieval frescoes + deep image prior for text restoration. 
 
