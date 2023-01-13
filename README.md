@@ -5,7 +5,7 @@ In this section we compute a style dissimilarity score for a large dataset of ch
   - The labels on the table are relative to the letter's place of origin, so v is [1] from Venanson, s is [2] from Saint-Etienne, l is [3] from Luceram and i is [4] from Imperia. 
   - The inmages are resized to 512x512, lightly smoothed with a gaussian kernel and summarized to a single channel
  
-The original source images are reported in : [Original images]([https://www.google.com](https://github.com/fmerizzi/text_style_comparison/tree/main/new_dataset))
+The original source images are reported in : [Original images]([https://www.google.com](https://github.com/fmerizzi/text_style_comparison/tree/main/new_dataset)
  
  
  
