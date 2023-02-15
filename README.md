@@ -7,7 +7,7 @@ In this section we compute a style dissimilarity score for a large dataset of ch
  
 The original source images are reported in : [source images](https://github.com/fmerizzi/text_style_comparison/tree/main/new_dataset)
  
- 
+ The code for producing these results is included in the repo by the name comparing_large_number_images.ipynb
  
 # medieval writings style comparison and restoration  
 Using gram matrices to compare calligraphy from medieval frescoes + deep image prior for text restoration. 
